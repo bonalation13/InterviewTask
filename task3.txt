@@ -1,0 +1,1 @@
+0 22 * * 0 tar -czf /tmp/user_backup.tar.gz /home/user && scp /tmp/user_backup.tar.gz user@192.168.1.100:/path/to/backup && rm /tmp/user_backup.tar.gz
