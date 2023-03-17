@@ -1,0 +1,11 @@
+Intital Process to execute Task4
+
+1. Firstly learn about CloudFormation/Terraform.
+BOth are Iaac(Infrastructure as a Code) providers
+
+2. Create an EC2 instance.
+check for free tier account, make screeenshots and use Python SDK(not mandatory but for thesis purposes).
+Work on EC2 instance, they may come with Linux, or we need to install linux.
+
+3. 
+
