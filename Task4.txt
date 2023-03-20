@@ -8,5 +8,15 @@ BOth are Iaac(Infrastructure as a Code) providers
 check for free tier account, make screeenshots and use Python SDK(not mandatory but for thesis purposes).
 Work on EC2 instance, they may come with Linux, or we need to install linux.
 
-3. 
+3. Learn SSH and connect EC2 from Ubuntu on Local System.
+
+4. Python SDK config and usage.
+
+5. Parallely creaate word document for Professor.
+
+Keywords : EC2 : AMI, COnfigure instance, Python SDK.
+           SSH
+           Installing wordpress and connecting it.
+
+ 
 
